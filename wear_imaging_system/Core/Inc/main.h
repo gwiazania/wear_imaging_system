@@ -167,8 +167,8 @@ void Error_Handler(void);
 #define LCD_B3_GPIO_Port GPIOJ
 #define OTG_FS_OverCurrent_Pin GPIO_PIN_4
 #define OTG_FS_OverCurrent_GPIO_Port GPIOD
-#define SDMMC_CMD_Pin GPIO_PIN_2
-#define SDMMC_CMD_GPIO_Port GPIOD
+#define SDMMC_D0_Pin GPIO_PIN_2
+#define SDMMC_D0_GPIO_Port GPIOD
 #define TP3_Pin GPIO_PIN_15
 #define TP3_GPIO_Port GPIOH
 #define ARDUINO_SCK_D13_Pin GPIO_PIN_1
